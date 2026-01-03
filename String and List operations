@@ -1,0 +1,9 @@
+# String operations
+s = input("Enter a string: ")
+print("Length:", len(s))
+print("Uppercase:", s.upper())
+print("Lowercase:", s.lower())
+# List traversal
+my_list = [10, 20, 30, 40]
+for item in my_list:
+    print(item)
