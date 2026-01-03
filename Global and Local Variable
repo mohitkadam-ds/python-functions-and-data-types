@@ -1,0 +1,7 @@
+# Demonstration of local and global variables
+x = 10  # global variable
+def demo():
+    y = 5  # local variable
+    print("Local variable y:", y)
+    print("Global variable x:", x)
+demo()
