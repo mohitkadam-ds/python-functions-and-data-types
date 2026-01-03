@@ -1,0 +1,5 @@
+# Function with arguments
+def display(name, age):
+    print("Name:", name)
+    print("Age:", age)
+display("Mohit", 20)
